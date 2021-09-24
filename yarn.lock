@@ -297,6 +297,11 @@
   resolved "https://registry.yarnpkg.com/@humanwhocodes/object-schema/-/object-schema-1.2.0.tgz#87de7af9c231826fdd68ac7258f77c429e0e5fcf"
   integrity sha512-wdppn25U8z/2yiaT6YGquE6X8sSv7hNMWSXYSSU1jGv/yd6XqjXgTDJ8KP4NgjTXfJ3GbRjeeb8RTV7a/VpM+w==
 
+"@limwa/react-hooks@^0.2.0":
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/@limwa/react-hooks/-/react-hooks-0.2.0.tgz#145eec7467a666b6c7e037d3619e9e9171f7b23a"
+  integrity sha512-U7Ik5RO1ur4Vn/LS9uxYRbeGoTW0YOXoXX+yvn9aBKBPNqLzRsxF+tO1dcBnNmakQwEn6Tz5rmqlK4BKlScxuA==
+
 "@napi-rs/triples@^1.0.3":
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/@napi-rs/triples/-/triples-1.0.3.tgz#76d6d0c3f4d16013c61e45dfca5ff1e6c31ae53c"
